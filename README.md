@@ -5,6 +5,7 @@ Práctica Axentes Intelixentes
    * [Contorno de tarefas](#tcontorno-de-tarefas)
    * [Estrutura do axente](#estrutura-do-axente)
    * [Implementación](#implementación)
+   * [Extensión](#extensión)
    * [Entrega](#entrega)
    * [Bibliografía](#bibliografía)
 
