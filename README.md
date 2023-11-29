@@ -8,7 +8,7 @@ Práctica Axentes Intelixentes
    * [Entrega](#entrega)
    * [Bibliografía](#bibliografía)
 
-Proponse programar un axente intelixente solución ao entorno de tarefas do xogo pedra, papel, tixolas, seguindo as directrices de modelado propostas no capítulo 2 _Intelligent Agents_ do libro _IA: A modern approach, Russell & Norvig_.
+Proponse programar un axente intelixente solución ao entorno de tarefas do xogo pedra, papel, tesoiras, seguindo as directrices de modelado propostas no capítulo 2 _Intelligent Agents_ do libro _IA: A modern approach, Russell & Norvig_.
 
 Para iso é necesario:
 
@@ -19,7 +19,7 @@ Para iso é necesario:
 
 ## O problema
 
-Estudia a [solución básica](./doc/codigo_RPS_explicado.md) ao xogo pedra, papel, tixolas (desde agora RPS, siglas en inglés correspondentes a _Rock, Paper, Scissors_).
+Estudia a [solución básica](./doc/codigo_RPS_explicado.md) ao xogo pedra, papel, tesoiras (desde agora RPS, siglas en inglés correspondentes a _Rock, Paper, Scissors_).
 
 Intenta comprender os constructos Python que se empregan.
 
@@ -66,11 +66,11 @@ Engade os compoñentes software que precises para implementar os compoñentes do
 
 ![Table Driven Agent Program](./doc/table_driven_agent_program.png)
 
-Consegue que o código satisfaga os principios SOLID, en particular, SRP e OCP para extender a súa lóxica a diferentes versións do xogo.
+Consegue que o código satisfaga os principios **SOLID**, en particular, **SRP** e **OCP** para extender a súa lóxica a diferentes versións do xogo.
 
 ## Extensión
 
-Unha vez programado o axente para a versión clásica do RPS, extende o súa lóxica para xogar á versión  [pedra, papel, tixolas, lagarto, Spock](http://www.samkass.com/theories/RPSSL.html)
+Unha vez programado o axente para a versión clásica do RPS, extende o súa lóxica para xogar á versión  [pedra, papel, tesoiras, lagarto, Spock](http://www.samkass.com/theories/RPSSL.html)
 
 ## Entrega
 
