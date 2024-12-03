@@ -110,7 +110,7 @@ Implementa en Python todos os compoñentes da estrutura do axente de forma corre
 
 O teu código pode e debe ser modular seguindo o principio SRP, pero **a execución da lóxica ten que invocarse dende a función `get_computer_action()`.
 
-Se provee de una rúbrica la implementación Python (pendiente).
+A rúbrica da implementación Python [na segunda folla "RPS" deste libro de cálculo.](https://docs.google.com/spreadsheets/d/1r93uZnPmioY0U1D7EDtV1uveKYIOlenkz8uuqks4KXM/) Loguéate antes na túa conta de gmail con acceso ao noso Drive.
 
 4.**Extensión ao RPS + Lizzard Spock**
 
