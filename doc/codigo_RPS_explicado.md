@@ -157,11 +157,11 @@ def main():
             print(f"Invalid selection. Pick a choice in range {range_str}!")
             continue
 
-    computer_action = get_computer_action()
-    assess_game(user_action, computer_action)
+        computer_action = get_computer_action()
+        assess_game(user_action, computer_action)
 
-    if not play_another_round():
-        break
+        if not play_another_round():
+            break
 ```
 
 > Principio de responsabilidad única. 
